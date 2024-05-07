@@ -1,0 +1,21 @@
+{
+    "color": "#2A2A2A",
+    "edges": [],
+    "id": "test-temple",
+    "index": 99,
+    "label": "Test Temple",
+    "levels": [
+      {
+        "_id": 0,
+        "filename": "tutorials/levels/tutorial_test.json",
+        "id": 0,
+        "mobileTime": 600,
+        "required": 0,
+        "time": 300,
+        "unlock_key": "free",
+        "x": 0.2425,
+        "y": 0.21
+      }
+    ],
+    "type": "rows"
+  }
